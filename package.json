@@ -1,0 +1,17 @@
+{
+  "name": "codex-skill-menu-zh-cn",
+  "version": "1.0.0",
+  "description": "Localize Codex skill menu descriptions to Simplified Chinese",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "localize": "node src/cli.mjs"
+  },
+  "dependencies": {
+    "yaml": "2.9.1"
+  }
+}

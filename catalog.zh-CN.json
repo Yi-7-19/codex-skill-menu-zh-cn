@@ -1,0 +1,337 @@
+[
+  {
+    "skill": "artifact-template-analytics-dashboard",
+    "sourceSha256": "aba7a2241d72e5df24f6b13e7923d50d2be5ec05f234dab3609a2a2d2b49d0cf",
+    "description": "使用数据分析仪表板模板创建电子表格"
+  },
+  {
+    "skill": "artifact-template-business-review",
+    "sourceSha256": "6034717b6cb9c4d35b1a4248c1517a3ba7efea65a47370f4ccefc6552579b158",
+    "description": "使用业务回顾模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-design-report",
+    "sourceSha256": "f0d5bb3973ca05fe8b2cbf859342d04d9d167e4708991dec136990bf8587cf7d",
+    "description": "使用设计报告模板创建文档"
+  },
+  {
+    "skill": "artifact-template-experiment-analysis",
+    "sourceSha256": "92a69c834294762eaf76a5265606153333502e04eaac2edf28935772920e0450",
+    "description": "使用实验分析模板创建文档"
+  },
+  {
+    "skill": "artifact-template-financial-budget",
+    "sourceSha256": "ccb6fd5dc43c80d7a6e09a9dd48f53b79acd78ce21e5f71bd7f838af49038a2c",
+    "description": "使用财务预算模板创建电子表格"
+  },
+  {
+    "skill": "artifact-template-investment-committee-memo",
+    "sourceSha256": "83321e05f6fd3dd6181d438bc840c264c3d4f3cc4706b379bd5872f80b96336a",
+    "description": "使用投资委员会备忘录模板创建文档"
+  },
+  {
+    "skill": "artifact-template-legal-memorandum",
+    "sourceSha256": "c249c13fe4f4a853c59206270b53e7bd628d1123cdc0e1724378f53557730bfc",
+    "description": "使用法律备忘录模板创建文档"
+  },
+  {
+    "skill": "artifact-template-market-trends-report",
+    "sourceSha256": "9358f2fd6c1a13cc1c8e48c2534cd8cb6a4d0b0b9456f8dd72c45149e22ec476",
+    "description": "使用市场趋势报告模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-minimal-letterhead",
+    "sourceSha256": "9e534ba7ee5225d3a24a1f2db30adc48bb9ac28fc768c7ebca81f6a69c50336a",
+    "description": "使用简洁信笺模板创建文档"
+  },
+  {
+    "skill": "artifact-template-operating-calendar",
+    "sourceSha256": "cde821ee5098597a254c2748b498151263be2c12357fcbb1f70463dc8d367a77",
+    "description": "使用运营日历模板创建电子表格"
+  },
+  {
+    "skill": "artifact-template-operating-review",
+    "sourceSha256": "6630613e3d23bf43b859c4730070429e733503df978fa7d3215fc2fa1e854815",
+    "description": "使用运营回顾模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-project-kickoff",
+    "sourceSha256": "537e92d8520a09f747d43c1ada7212d932c03064657f77f09eaf9f7f1795bb37",
+    "description": "使用项目启动模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-project-tracker",
+    "sourceSha256": "62ad1b056fe82889fbca9a71ebd2b6991c8a85cce8d9756b8f5dbef561422db6",
+    "description": "使用项目进度跟踪模板创建电子表格"
+  },
+  {
+    "skill": "artifact-template-sales-pipeline",
+    "sourceSha256": "a738f458fa1832c60cf333a12749f2b0eff5d77d8d9838ef16e13c164303a02e",
+    "description": "使用销售商机模板创建电子表格"
+  },
+  {
+    "skill": "artifact-template-simple-dark-mode",
+    "sourceSha256": "e836e873c0516b4da71a2d2da419fc4161e19e1b1ea695dad8854194810ad877",
+    "description": "使用简洁深色模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-simple-light-mode",
+    "sourceSha256": "0ed711d2a1b0dedea82405a891293e3b84773907b4933fbd8a21065b785bb2a1",
+    "description": "使用简洁浅色模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-strategy-memorandum",
+    "sourceSha256": "a9272464fde3691e99758d61817028159d577ad70927ca1fe78442480b92fccf",
+    "description": "使用战略备忘录模板创建文档"
+  },
+  {
+    "skill": "artifact-template-system-design",
+    "sourceSha256": "9077ed4fa45f2a6643eaa65fbc5ffb515397566908c125db085dad44566fecd0",
+    "description": "使用系统设计模板创建文档"
+  },
+  {
+    "skill": "artifact-template-team-alignment",
+    "sourceSha256": "0c1b6ab371e17c4b993b4545e6a319ced012d7f637c8c36490d1c49ac92af2da",
+    "description": "使用团队目标对齐模板创建演示文稿"
+  },
+  {
+    "skill": "artifact-template-three-statement-forecast",
+    "sourceSha256": "a7b50f520e4511101d60596383f4fd54550f8dd4a907fd639fea6ff7d40b8132",
+    "description": "使用三大财务报表预测模板创建电子表格"
+  },
+  {
+    "skill": "audit",
+    "sourceSha256": "1d434b8ecbfc584aa9db91b6ebe49c4e4c21e6ebde52fbb144860e36788f57ce",
+    "description": "通过截图审查产品流程，指出体验、设计和无障碍问题"
+  },
+  {
+    "skill": "cloud-desktop",
+    "sourceSha256": "171ec0b965e868f8bfd9fbb1608042014529f99d767c152542e359fad7b87034",
+    "description": "在 Codex 云端桌面打开网页、查看应用并排查桌面工具"
+  },
+  {
+    "skill": "cloud-environment-runtime",
+    "sourceSha256": "829603809928d35289995ebc96fc2838a47771b2212bf1fef139acb1df62bb76",
+    "description": "在 Codex 云环境配置依赖、运行测试并排查容器与网络问题"
+  },
+  {
+    "skill": "create-pet",
+    "sourceSha256": "1026476de1aa8b92db441a1f472e84133fdc3682d7e6adfe23c06132b2989751",
+    "description": "为 ChatGPT Work 创建、验证和启用自定义动态宠物"
+  },
+  {
+    "skill": "design-qa",
+    "sourceSha256": "b420dd26affef96e63367cc747fca3378c51a7f740532233dbe148b9a366214d",
+    "description": "对照设计参考验证实际界面，找出视觉和响应式差异"
+  },
+  {
+    "skill": "documents",
+    "sourceSha256": "e1d3e85f1c3162f7edd4750ce859f4bc376e200669d0ca20963459230a56bda3",
+    "description": "创建、编辑和校对 Word 文档及 Google Docs 文档"
+  },
+  {
+    "skill": "excel-live-control",
+    "sourceSha256": "e53d862cf74f3a54a1367354fa8961a52303b33acf0754f62473e5f95099b8d3",
+    "description": "连接正在运行的 Excel，操作已打开的工作簿"
+  },
+  {
+    "skill": "find-skills",
+    "sourceSha256": "ae20b48793b11f5341a82473dbee7a120f4462c501b1b56f3732876809c94ef5",
+    "description": "查找能完成特定任务的 Skill，并协助安装"
+  },
+  {
+    "skill": "get-context",
+    "sourceSha256": "e5d46b00f4c7a8cbfa8790e55d06b8b07582b76fecd0dab10aa612d424a909ee",
+    "description": "从现有产品、文件和界面收集设计所需的信息"
+  },
+  {
+    "skill": "hatch-pet",
+    "sourceSha256": "2fdd30ad7b9a078dc6f2f10d84a3398ce29ce2258e6673eac2604de7dfef50ed",
+    "description": "生成、验证和打包不同画风的 Codex 动态宠物"
+  },
+  {
+    "skill": "ideate",
+    "sourceSha256": "d318672877a4699c0de64ad2278479fc7fc44ed3ec5cac4e04cb06c4fbdb5a99",
+    "description": "根据设计需求或参考图生成并探索多种视觉方案"
+  },
+  {
+    "skill": "image-to-code",
+    "sourceSha256": "2a71fda925a1ac4a0ff384bf9f05608de6e2337beb96eafa5a842da812d9f03c",
+    "description": "将截图、设计稿或生成图实现为响应式网页界面"
+  },
+  {
+    "skill": "imagegen",
+    "sourceSha256": "7b8caf33f8774de182b86fa1d9e1a380ac9499a5b9ff77f216ce3babde22e143",
+    "description": "生成或编辑网站、游戏、插画等场景所需的图片"
+  },
+  {
+    "skill": "index",
+    "sourceSha256": "52086c0e68a0c898f11533f60be1816222a22aa8182e6ca7cd76c350705cdf59",
+    "description": "选择适合的产品设计流程，开展探索、研究、审查或复现"
+  },
+  {
+    "skill": "markitdown",
+    "sourceSha256": "7a3c9e32d269c29c6bb5a121fc1ddaac02debd8ca31b65bc34aa257bcbd826d9",
+    "description": "将文档、表格、幻灯片、图片和受支持的网页转成 Markdown"
+  },
+  {
+    "skill": "openai-docs",
+    "sourceSha256": "643b83ef1193e1290ab0beab3f0436254f94a0ef65b6f705d839f36f97f3a572",
+    "description": "查询 Codex、ChatGPT Work 和 OpenAI API 的官方文档"
+  },
+  {
+    "skill": "pdf",
+    "sourceSha256": "8e643592ffb07472cf1e7ca55ed6bb7d0f0732759b417aef1a210fa1be06d371",
+    "description": "读取、创建、渲染并验证 PDF 文件及可填写表单"
+  },
+  {
+    "skill": "pets",
+    "sourceSha256": "f6f69cdaea39cad6f341e73cf27c9ddb84b421a15fd0549ce78eccb597bd59c5",
+    "description": "查看、选择、下载或删除 ChatGPT Work 的动态宠物"
+  },
+  {
+    "skill": "plugin-management",
+    "sourceSha256": "88dff88f9f4f6584aee4694e24a2f0d5288a5578fb16a2fd98349909d703f9f7",
+    "description": "查找和管理插件，检查权限、连接和依赖项"
+  },
+  {
+    "skill": "Presentations",
+    "sourceSha256": "ee3e01b86539491302148d1aba1e0ea071bd5fc0facc2c15b9c7c18b13ed4751",
+    "description": "创建和编辑 PowerPoint 或 Google Slides 演示文稿"
+  },
+  {
+    "skill": "remotion-best-practices",
+    "sourceSha256": "735c161b7a0df3c5e18e7a87627e0a137425f4c064d1e86d792190e11e92ba47",
+    "description": "根据任务选择合适的 Remotion 制作流程"
+  },
+  {
+    "skill": "remotion-captions",
+    "sourceSha256": "c980f33ea8abc2f7f689217e5afbe069b0f60a3fbecef4097b51f275a0cbb4e8",
+    "description": "转录语音、显示字幕并制作字幕动画"
+  },
+  {
+    "skill": "remotion-create",
+    "sourceSha256": "9d33d4a88870ced124b5428be08b9de2797c25ce483dbc61984ae812ee820018",
+    "description": "创建新的 Remotion 视频项目"
+  },
+  {
+    "skill": "remotion-docs",
+    "sourceSha256": "3c0cae4744fd4cc32c9b80873cc37136590d7e793c67d8cccee25152811c1660",
+    "description": "查询 Remotion 的官方文档与用法"
+  },
+  {
+    "skill": "remotion-interactivity",
+    "sourceSha256": "13850517d089205b8ec663799d9514f29a0facb80353dc4932b6e201640df463",
+    "description": "在 Remotion Studio 中为视频元素添加可编辑交互"
+  },
+  {
+    "skill": "remotion-maps",
+    "sourceSha256": "15e69a16c31833aeded8336c5f97493dd2e1507a154d01637da0a20284ca5cba",
+    "description": "在 Remotion 视频中制作地图动画"
+  },
+  {
+    "skill": "remotion-markup",
+    "sourceSha256": "f9a2f8fd6a53341ac76cd68c5bc75381653216de50d345938f8f37022e7832fe",
+    "description": "用 Remotion 编写视频画面、动画和特效"
+  },
+  {
+    "skill": "remotion-multimedia",
+    "sourceSha256": "bcc42bdea3d40cb54d432ee0453f196fb04d66d95edae691c882fa27ea44611a",
+    "description": "用 Mediabunny 读取和处理音视频媒体"
+  },
+  {
+    "skill": "remotion-render",
+    "sourceSha256": "e858a24daa3f34d85bd2c52bc4ccbc801afb2f944e3c0a91cf9d872cbadd6b10",
+    "description": "将 Remotion 项目渲染并导出为视频或静帧"
+  },
+  {
+    "skill": "remotion-saas",
+    "sourceSha256": "0f2b7c5bd9dd5cdecfeec038ddb732ccc83fe1fcd5763b64966a7bd6ed47c681",
+    "description": "构建可预览和渲染视频的 Remotion 应用"
+  },
+  {
+    "skill": "remotion-studio",
+    "sourceSha256": "2530ea8c19c517d898d90d70482086acbd9ad6e0df996cdb58ec1754ad2088d3",
+    "description": "在 Remotion Studio 中预览视频"
+  },
+  {
+    "skill": "remotion-upgrade",
+    "sourceSha256": "51813934008d41830b96990e5054fb8d1ed72c0cfaa4a810c932bdd17676b1b2",
+    "description": "升级 Remotion 和相关依赖包"
+  },
+  {
+    "skill": "research",
+    "sourceSha256": "bed3602561f00b8328298acccc5439d5a7b399cd2ac4a585e0b9f3d8c84dbd9e",
+    "description": "收集与产品设计问题相关的用户体验资料与案例"
+  },
+  {
+    "skill": "review-agent",
+    "sourceSha256": "d6be47999b5de4c8ea9ac3f208176620bd4bd8015732fd423efa316e03bd68b8",
+    "description": "审查指定的代码变更并找出可修复的问题"
+  },
+  {
+    "skill": "share",
+    "sourceSha256": "701d7a45d51350196ce6ca0fe72c47385323a2c1d94bac78bd32ed7faaa7e7e7",
+    "description": "整理设计稿和原型，生成便于查看与分享的内容"
+  },
+  {
+    "skill": "sites-remix",
+    "sourceSha256": "068f696bdb54b0e7b46a18529baabd5d9d979ac4903cbee4486a94dc5ae048a2",
+    "description": "以已有的 Sites 网站为基础制作新网站"
+  },
+  {
+    "skill": "sites",
+    "sourceSha256": "4a9958ff264eff52a782f3bb9d9b34783f36b048fb850293217feb8dd7e2a455",
+    "description": "创建、修改、发布和管理 Sites 网站"
+  },
+  {
+    "skill": "skill-creator",
+    "sourceSha256": "ddc3f9b29e21ba9d14d21dd856dffbc26d0cbf992059251a530264061b1ed80f",
+    "description": "创建或更新 Codex Skill 的说明与配套资源"
+  },
+  {
+    "skill": "skill-installer",
+    "sourceSha256": "e1df4d2f4455cce416ccfd699755ac103ce8caaba2129e9f616384a5da832bef",
+    "description": "从官方精选列表或 GitHub 仓库查找并安装 Skill"
+  },
+  {
+    "skill": "Spreadsheets",
+    "sourceSha256": "15a93c78826d7ca1b5240f58c8c6855c7ecc5c1e3f76de830a423b3308e65ca8",
+    "description": "创建、编辑和分析电子表格，处理公式、格式和图表"
+  },
+  {
+    "skill": "template-creator",
+    "sourceSha256": "7beee475b539b56626a1b63483d27ef1e1428d49a3a20e32e703c5e073bb3d2d",
+    "description": "根据示例创建或更新可复用的个人文档、演示或表格模板"
+  },
+  {
+    "skill": "ui-ux-pro-max",
+    "sourceSha256": "49ce073cd4a8454c92be7a4835a5b7205ebe6b0025accdfd35b104f008268ffd",
+    "description": "为网页和移动界面提供布局、字体、配色与交互设计建议"
+  },
+  {
+    "skill": "update-pet",
+    "sourceSha256": "497e5326df50c37bb0bc5b346cbc4751883fd82c77111ac78c4cfa20445267a6",
+    "description": "检查和更新 ChatGPT Work 宠物的名称、说明与动画"
+  },
+  {
+    "skill": "url-to-code",
+    "sourceSha256": "f04596db44b29bc9e40737f6842394ef125c006282bfefec4bf97029d0820759",
+    "description": "将现有网页复现为可在本地运行的前端应用"
+  },
+  {
+    "skill": "user-context",
+    "sourceSha256": "598c96e9e06382e15a4b478b16047d282ca8f435d0b63c5c110b7e782fe25923",
+    "description": "梳理产品的目标用户、使用场景及设计约束"
+  },
+  {
+    "skill": "visualize",
+    "sourceSha256": "ebc265a3c6672322e4aa4886b53e29211c6ec6028f7e916c1aad66d764b09f3a",
+    "description": "制作交互式图表、示意图和模拟，帮助解释或比较信息"
+  },
+  {
+    "skill": "write-like-me",
+    "sourceSha256": "7d41982ef1559609faf30c5f743935ad67b47f58f3410a67933907849d3bf56f",
+    "description": "参考用户的写作风格起草邮件、文档、报告和演示文稿"
+  }
+]
